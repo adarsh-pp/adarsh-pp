@@ -1,4 +1,4 @@
-# Hey there👋
+# Adarsh Pooradan Prasannakumar👋
 🧬 Bioinformatician | Genomics | Variant Analysis  
 
 ## 🚀 Profile
