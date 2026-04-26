@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there👋
+🧬 Bioinformatician | Genomics | Variant Analysis  
 
-<!--
-**adarsh-pp/adarsh-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Profile
+Bioinformatician with 3+ years of experience in **NGS data analysis**, specializing in **variant analysis and de novo genome assembly**. Strong focus on building efficient, reproducible workflows for genomic data.
 
-Here are some ideas to get you started:
+## 🧬 Expertise
+🔹 **Variant Analysis**
+- SNP/Indel calling from NGS data  
+- Variant annotation
+- Population databases: gnomAD, 1000 Genomes, ExAC  
+- Functional impact interpretation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **De Novo Assembly**
+- Short-read, long-read and hybrid genome assembly  
+- Contig alignment & analysis  
+- Assembly quality assessment
+- Assembly downstream analysis
+
+🔹 **Epigenomics**
+- Differential methylation analysis  
+- Clustering & visualization  
+
+
+## 🛠️ Tech Stack
+💻 Python | R | Bash  
+🧪 Genomic analysis tools
+📊 ggplot2 | CMplot | Pandas  
+
+
+## 📂 Work Highlights
+✔️ Variant annotation pipelines
+✔️ Prokaryotic & Eukaryotic genome assembly pipelines
+✔️ SNP density & genomic visualization  
+✔️ Methylation analysis workflows   
+
+
+## 🎯 Currently
+📍 UK | Open to Bioinformatics / Genomics roles  
+📈 Exploring Machine Learning in Genomics  
+
+
+📫 *Check my repositories below for detailed projects*
