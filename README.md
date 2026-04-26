@@ -1,4 +1,4 @@
-# Hey There!👋
+# Hey There, I am Adarsh👋
 🧬 Bioinformatician | Genomics | MSc Health Genomics, University of Essex
 
 ## 🚀 Profile
