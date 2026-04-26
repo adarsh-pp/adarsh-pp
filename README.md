@@ -2,7 +2,7 @@
 🧬 Bioinformatician | Genomics | MSc Health Genomics, University of Essex
 
 ## 🚀 Profile
-Bioinformatician with 3+ years of experience in **NGS data analysis**, specializing in **variant analysis and de novo genome assembly**. Strong focus on building efficient, reproducible workflows for genomic data.
+Bioinformatician with 4 years of experience in **NGS data analysis**, specializing in **variant analysis and de novo genome assembly**. Strong focus on building efficient, reproducible workflows for genomic data including short-read and long-read
 
 ## 🧬 Expertise
 🔹 **Variant Analysis**
@@ -21,12 +21,10 @@ Bioinformatician with 3+ years of experience in **NGS data analysis**, specializ
 - Differential methylation analysis  
 - Clustering & visualization  
 
-
 ## 🛠️ Tech Stack
 💻 Python | R | Bash  
 🧪 Genomic analysis tools
 📊 ggplot2 | CMplot | Pandas  
-
 
 ## 📂 Work Highlights
 ✔️ Variant annotation pipelines
@@ -34,10 +32,8 @@ Bioinformatician with 3+ years of experience in **NGS data analysis**, specializ
 ✔️ SNP density & genomic visualization  
 ✔️ Methylation analysis workflows   
 
-
 ## 🎯 Currently
 📍 UK | Open to Bioinformatics / Genomics roles  
 📈 Exploring Machine Learning in Genomics  
-
 
 📫 *Check my repositories below for detailed projects*
