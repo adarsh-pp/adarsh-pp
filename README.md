@@ -34,5 +34,3 @@ Bioinformatician with 4 years of experience in **NGS data analysis**, specializi
 ## 🎯 Currently
 📍 UK | Open to Bioinformatics / Genomics roles  
 📈 Exploring Machine Learning in Genomics  
-
-📫 *Check my repositories below for detailed projects*
