@@ -1,5 +1,5 @@
 # Adarsh Pooradan Prasannakumar👋
-🧬 Bioinformatician | Genomics | Variant Analysis  
+🧬 Bioinformatician | Genomics | MSc Health Genomics, University of Essex
 
 ## 🚀 Profile
 Bioinformatician with 3+ years of experience in **NGS data analysis**, specializing in **variant analysis and de novo genome assembly**. Strong focus on building efficient, reproducible workflows for genomic data.
