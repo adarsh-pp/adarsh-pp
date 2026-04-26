@@ -1,4 +1,4 @@
-# Adarsh Pooradan Prasannakumar👋
+# Hey There!👋
 🧬 Bioinformatician | Genomics | MSc Health Genomics, University of Essex
 
 ## 🚀 Profile
