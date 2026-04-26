@@ -6,7 +6,7 @@ Bioinformatician with 4 years of experience in **NGS data analysis**, specializi
 
 ## 🧬 Expertise
 🔹 **Variant Analysis**
-- SNP/Indel calling from NGS data  
+- SNP/Indel calling from genomic data  
 - Variant annotation
 - Population databases: gnomAD, 1000 Genomes, ExAC  
 - Functional impact interpretation  
@@ -23,13 +23,7 @@ Bioinformatician with 4 years of experience in **NGS data analysis**, specializi
 
 ## 🛠️ Tech Stack
 💻 Python | R | Bash  
-🧪 Genomic analysis tools 
-
-## 📂 Work Highlights
-✔️ Variant annotation pipelines
-✔️ Prokaryotic & Eukaryotic genome assembly pipelines
-✔️ SNP density & genomic visualization  
-✔️ Methylation analysis workflows   
+🧪 Genomic analysis tools   
 
 ## 🎯 Currently
 📍 UK | Open to Bioinformatics / Genomics roles  
