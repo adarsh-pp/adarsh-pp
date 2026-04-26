@@ -23,8 +23,7 @@ Bioinformatician with 4 years of experience in **NGS data analysis**, specializi
 
 ## 🛠️ Tech Stack
 💻 Python | R | Bash  
-🧪 Genomic analysis tools
-📊 ggplot2 | CMplot | Pandas  
+🧪 Genomic analysis tools 
 
 ## 📂 Work Highlights
 ✔️ Variant annotation pipelines
