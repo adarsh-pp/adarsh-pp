@@ -6,24 +6,14 @@ Bioinformatician with 4 years of experience in **Genomics and Transcriptomics**.
 
 ## 🧬 Expertise
 🔹 **Variant Analysis**
-- SNP/Indel calling from genomic data  
-- Variant annotation
-- Population databases: gnomAD, 1000 Genomes, ExAC  
-- Functional impact interpretation  
-
 🔹 **De Novo Assembly**
-- Short-read, long-read and hybrid genome assembly  
-- Contig alignment & analysis  
-- Assembly quality assessment
-- Assembly downstream analysis
-
 🔹 **Epigenomics**
-- Differential methylation analysis  
-- Clustering & visualization  
+🔹 **Transcriptomics**
+
 
 ## 🛠️ Tech Stack
-💻 Python | R | Bash  
-🧪 Genomic analysis tools   
+💻 Python | R | Bash | Linux | HPC
+🧪 Genomic and Transcriptomic analysis tools   
 
 ## 🎯 Currently
 📍 UK | Open to Bioinformatics / Genomics roles  
