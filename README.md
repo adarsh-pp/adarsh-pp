@@ -12,8 +12,8 @@ Bioinformatician with 4 years of experience in **Genomics and Transcriptomics**.
 
 
 ## 🛠️ Tech Stack
-💻 Python | R | Bash | Linux | HPC
-🧪 Genomic and Transcriptomic analysis tools   
+- 💻 Python | R | Bash | Linux | HPC
+- 🧪 Genomic and Transcriptomic analysis tools   
 
 ## 🎯 Currently
 📍 UK | Open to Bioinformatics / Genomics roles  
