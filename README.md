@@ -2,7 +2,7 @@
 🧬 Bioinformatician | Genomics | MSc Health Genomics, University of Essex
 
 ## 🚀 Profile
-Bioinformatician with 4 years of experience in **Genomics and Transcriptomics**. Strong focus on building efficient, reproducible workflows for genomic data including short-read and long-read.
+Bioinformatician with 4 years of experience in **Genomics and Transcriptomics**. Strong focus on building efficient, and reproducible workflows for genomic data including short-read and long-read.
 
 ## 🧬 Expertise
 🔹 **Variant Analysis**
